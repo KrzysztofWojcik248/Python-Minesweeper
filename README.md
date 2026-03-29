@@ -22,3 +22,18 @@ Menu settings and gameplay of 13x8 map.
 <img width="2853" height="1708" alt="image" src="https://github.com/user-attachments/assets/6f0c2a4c-5da3-43fc-87b4-32a2d9827fd9" />
 
 <img width="1482" height="967" alt="image" src="https://github.com/user-attachments/assets/9a7ac63b-5a1d-4f89-bacf-ed92f02dadc1" />
+
+# How to Run
+
+## Prerequisites
+- Python 3.12 or higher
+- Tkinter (comes with Python on Windows and macOS; Linux users may need to install separately)
+
+
+
+# How to run
+
+git clone https://github.com/KrzysztofWojcik248/Python-Minesweeper.git
+cd Python-Minesweeper
+
+python3 Saper_Gra.py
