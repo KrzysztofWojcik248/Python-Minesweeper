@@ -40,4 +40,4 @@ cd Python-Minesweeper
 
 python3 Saper_Gra.py
 
-##Or you can download the Saper.exe file from this repository
+## Or you can download the Saper.exe file from this repository
