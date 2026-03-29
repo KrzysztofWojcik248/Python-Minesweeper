@@ -23,21 +23,19 @@ Menu settings and gameplay of 13x8 map.
 
 <img width="1482" height="967" alt="image" src="https://github.com/user-attachments/assets/9a7ac63b-5a1d-4f89-bacf-ed92f02dadc1" />
 
-# How to Run
+# How to Run:
 
 ## Prerequisites
 - Python 3.12 or higher
 - Tkinter (comes with Python on Windows and macOS; Linux users may need to install separately)
 
 
-
-# How to run
-
 ## You can run the game using following commands in Vs studio or system console if GIT is installed:
+
 git clone https://github.com/KrzysztofWojcik248/Python-Minesweeper.git
 
 cd Python-Minesweeper
 
 python3 Saper_Gra.py
 
-## Or you can download the Saper.exe file from this repository
+## Or you can download the Saper.exe file from the main branch of this repository on Windows.
