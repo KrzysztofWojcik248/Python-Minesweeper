@@ -34,6 +34,7 @@ Menu settings and gameplay of 13x8 map.
 # How to run
 
 git clone https://github.com/KrzysztofWojcik248/Python-Minesweeper.git
+
 cd Python-Minesweeper
 
 python3 Saper_Gra.py
