@@ -1,0 +1,2 @@
+This program requires python 3, it was tested od 3.12+.
+Every library is standard, Linux users might need to download Tkinter.
