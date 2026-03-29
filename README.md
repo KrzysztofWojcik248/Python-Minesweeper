@@ -33,8 +33,11 @@ Menu settings and gameplay of 13x8 map.
 
 # How to run
 
+## You can run the game using following commands in Vs studio or system console if GIT is installed:
 git clone https://github.com/KrzysztofWojcik248/Python-Minesweeper.git
 
 cd Python-Minesweeper
 
 python3 Saper_Gra.py
+
+##Or you can download the Saper.exe file from this repository
